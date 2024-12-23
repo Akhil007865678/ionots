@@ -1,0 +1,23 @@
+.home{
+    margin-top: 50px;
+}
+.home h1{
+    margin-left: 50px;
+}
+.project{
+    margin: 30px;
+}
+.accept{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 80px;
+    margin: 10px;
+}
+.user{
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 110px;
+    margin: 10px;
+}
